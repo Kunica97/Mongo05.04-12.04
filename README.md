@@ -2,8 +2,6 @@
 
 Это демонстрационный проект по работе с JavaScript в консоли, содержит линтер, nodemon и команду start,  запускающую файл ./src/index.js
 
-Вот типовая команда для работы в  Linux-системе: открываем окно терминала и пишем
-
-```
-cd && mkdir $(date +%Y%m%d_%H%M%S) && cd $_ && git clone https://github.com/GossJS/console_js_demo.git . && yarn && atom .
-```
+Please, install dependences! And you can see our aprilstudents list and require their password..
+![] ('https://raw.githubusercontent.com/Kunica97/Mongo05.04-12.04/master/aprilstudents.jpg')
+![] ('https://raw.githubusercontent.com/Kunica97/Mongo05.04-12.04/master/password.jpg')
